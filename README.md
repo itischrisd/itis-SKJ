@@ -15,4 +15,4 @@ Final project assignment was part of the course and can be found as a separate r
 
 ---
 
-If you need some help, notice any bugs or come up with possible improvements, feel free to reach out to me and/or create a pull request. Keep in mind, that there is intentionally duplicate code between TCP and UDP packages, as they were parts of different assignments. Architectural refinement might be in place if user desires to maintain them as one project.
+If you need some help, notice any bugs or come up with possible improvements, feel free to reach out to me and/or create a pull request.
